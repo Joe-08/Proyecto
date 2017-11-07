@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510082807 source:c:\users\joel\desktop\proyectos codeblocks\arkanoid\main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+
